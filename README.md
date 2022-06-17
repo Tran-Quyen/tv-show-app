@@ -1,6 +1,6 @@
 # TV Show App
 
-![image](https://user-images.githubusercontent.com/63846220/174222220-6a816a7c-78fe-4c39-b46a-d2debc8d3f5e.png)
+<img src="https://user-images.githubusercontent.com/63846220/174222220-6a816a7c-78fe-4c39-b46a-d2debc8d3f5e.png" width="700" alt="tv-show-app thumbnail"/>
 
 #### ❄️Author: Quyen Dang
 
