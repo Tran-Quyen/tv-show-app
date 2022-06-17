@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TV Show App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/63846220/174222220-6a816a7c-78fe-4c39-b46a-d2debc8d3f5e.png)
 
 #### ❄️Author: Quyen Dang
 
@@ -9,6 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### ✨Phone: (+84)337846412
 
 #### 😄 Magic Number: 142857 (x 1,2,3,4,5,6,7) (Secret Egypt)
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
